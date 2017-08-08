@@ -1,0 +1,23 @@
+{
+  "name": "items_redux_react_thunk",
+  "version": "1.0.0",
+  "description": "react reducx thunk => items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideliason/items_redux_react_thunk.git"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "David Eliason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davideliason/items_redux_react_thunk/issues"
+  },
+  "homepage": "https://github.com/davideliason/items_redux_react_thunk#readme"
+}
