@@ -1,4 +1,4 @@
-export itemsHasErrored = (state=false,action) => {
+export const itemsHasErrored = (state=false,action) => {
 	switch(action.type){
 		case 'ITEMS_HAS_ERRORED':
 			return action.hasErrored;
@@ -7,7 +7,7 @@ export itemsHasErrored = (state=false,action) => {
 	}
 }
 
-export itemsIsLoading = (state=false,action) => {
+export const itemsIsLoading = (state=false,action) => {
 	switch(action.type){
 		case 'ITEMS_IS_LOADING':
 			return action.isLoading;
